@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/nb/Desktop/rust/Rust with github/Rustin-time/project/target/debug/build/typenum-b2006391cb8436f4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/nb/Desktop/rust/Rust with github/Rustin-time/project/target/debug/build/typenum-b2006391cb8436f4/out/op.rs
