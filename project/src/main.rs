@@ -1,3 +1,5 @@
-fn main() {
-    println!("Hello, world!");
+mod unzip;
+
+pub fn main() {
+    unzip::checking_files();
 }

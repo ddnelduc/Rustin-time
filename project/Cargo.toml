@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 iced = "0.4"
 zip = "0.6.2"
+walkdir = "2"
